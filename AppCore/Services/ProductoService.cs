@@ -74,5 +74,10 @@ namespace AppCore.Services
         {
             return productoModel.GetIndexById(id);
         }
+
+        //public Producto[] GetAll()
+        //{
+        //    return productoModel.GetAll();
+        //}
     }
 }
