@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zBelU1NmZ0W3DCCxdsgOJHKBswKQFmVVw+eZY1mmnB7+TwW4xkp72M1C8+Wc/XV+OA1gYS9yJE3bNxTz1wR0Ew==",
+  "dgSpecHash": "aCVUbCiqaen3INEIBGdWFRqegViEc1czQwHBz8eSxpFBjHXjq72UulfshQXyUgqyg1sT4YPlkHUIncdA2Y/iMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BENDICCION\\Downloads\\TareaProducto-master\\TareaProducto-master\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Josue\\Downloads\\TareaProducto-master\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\BENDICCION\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\BENDICCION\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\BENDICCION\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\Josue\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Josue\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Josue\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

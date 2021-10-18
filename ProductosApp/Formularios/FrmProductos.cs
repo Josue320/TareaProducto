@@ -53,5 +53,13 @@ namespace ProductosApp.Formularios
                     break;                
             }
         }
+
+        private void btnMetodos_Click(object sender, EventArgs e)
+        {
+            FrmMetodos f2 = new FrmMetodos();
+            f2.ShowDialog();
+            
+           
+        }
     }
 }

@@ -217,23 +217,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BENDICCION\\.nuget\\packages\\": {},
+    "C:\\Users\\Josue\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BENDICCION\\Downloads\\TareaProducto-master\\TareaProducto-master\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Josue\\Downloads\\TareaProducto-master\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\BENDICCION\\Downloads\\TareaProducto-master\\TareaProducto-master\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\BENDICCION\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BENDICCION\\Downloads\\TareaProducto-master\\TareaProducto-master\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\Josue\\Downloads\\TareaProducto-master\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\Josue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Josue\\Downloads\\TareaProducto-master\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\BENDICCION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
